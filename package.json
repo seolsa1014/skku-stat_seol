@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/seolsa1014/skku-stat_seol.git"
   },
+  "bin": {
+    "stat": "./main.js"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
